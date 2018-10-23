@@ -1,7 +1,10 @@
 .img-circle {
     border-radius: 50%;
     border-width: 10px;
+    margin-bottom: 8em;
 }
-.Dtag {
-    height: 20em;
+
+.img-mine {
+    height: 240px;
+    width: 420px;
 }
